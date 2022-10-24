@@ -1,0 +1,7 @@
+.navigation__item-arrow {
+  width: 8px;
+  height: 4px;
+  background: url('../../../images/arrow.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}

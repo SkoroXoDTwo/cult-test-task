@@ -1,0 +1,14 @@
+.navigation__list-item {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  transition: opacity .2s;
+}
+
+.navigation__list-item:hover {
+  cursor: pointer;
+  opacity: .6;
+}

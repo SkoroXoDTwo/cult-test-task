@@ -21,3 +21,11 @@
 @import url(../blocks/header/__search-btn/header__search-btn.css);
 @import url(../blocks/header/__list-burger/header__list-burger.css);
 @import url(../blocks/header/__burger/header__burger.css);
+
+
+/* ----------- navigation ----------- */
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__list/navigation__list.css);
+@import url(../blocks/navigation/__list-item/navigation__list-item.css);
+@import url(../blocks/navigation/__item-name/navigation__item-name.css);
+@import url(../blocks/navigation/__item-arrow/navigation__item-arrow.css);
