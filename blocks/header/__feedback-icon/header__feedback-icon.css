@@ -1,0 +1,6 @@
+.header__feedback-icon {
+  width: 15px;
+  height: 12px;
+  background: url('../../../images/letter.svg');
+  background-size: cover;
+}

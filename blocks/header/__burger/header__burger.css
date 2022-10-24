@@ -1,0 +1,17 @@
+.header__burger {
+  margin: 0;
+  padding: 0;
+  width: 18px;
+  height: 15px;
+  border: none;
+  background: url('../../../images/burger.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: opacity .2s;
+  
+}
+
+.header__burger:hover {
+  cursor: pointer;
+  opacity: .6;
+}

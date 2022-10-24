@@ -1,0 +1,15 @@
+.header__lang {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #003154;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.58;
+  transition: opacity .2s ;
+}
+
+.header__lang:hover {
+  cursor: pointer;
+  opacity: .6;
+}

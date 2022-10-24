@@ -6,3 +6,18 @@
 
 @import url(../blocks/page/page.css);
 
+/* ----------- header ----------- */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-img/header__logo-img.css);
+@import url(../blocks/header/__logo-text/header__logo-text.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__feedback/header__feedback.css);
+@import url(../blocks/header/__feedback-icon/header__feedback-icon.css);
+@import url(../blocks/header/__feeback-text/header__feeback-text.css);
+@import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/header/__search/header__search.css);
+@import url(../blocks/header/__search-input/header__search-input.css);
+@import url(../blocks/header/__search-btn/header__search-btn.css);
+@import url(../blocks/header/__list-burger/header__list-burger.css);
+@import url(../blocks/header/__burger/header__burger.css);
