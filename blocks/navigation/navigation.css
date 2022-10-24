@@ -4,3 +4,28 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 1280px) {
+  .navigation {
+    padding: 16px 60px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .navigation {
+    justify-content: left;
+    overflow-x: auto;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .navigation {
+    padding: 12px 30px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .navigation {
+    padding: 16px;
+  }
+}

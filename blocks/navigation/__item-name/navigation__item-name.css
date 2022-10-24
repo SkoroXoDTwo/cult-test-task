@@ -5,4 +5,12 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 1.48;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 1024px) {
+  .navigation__item-name {
+    font-size: 14px;
+    line-height: 1.58;
+  }
 }

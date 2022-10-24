@@ -12,3 +12,11 @@
   cursor: pointer;
   opacity: .6;
 }
+
+@media screen and (max-width: 1024px) {
+  .navigation__list-item {
+    background: #F7F7F8;
+    border-radius: 4px;
+    padding: 8px 12px;
+  }
+}

@@ -3,7 +3,28 @@
   padding: 0;
   list-style: none;
   display: flex;
-  gap: 73px;
+  column-gap: 73px;
+  row-gap: 10px;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1439px) {
+  .navigation__list {
+    column-gap: 50px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .navigation__list {
+    column-gap: 30px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .navigation__list {
+    column-gap: 10px;
+    flex-wrap: nowrap;
+  }
 }
