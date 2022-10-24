@@ -6,3 +6,9 @@
   gap: 32px;
   align-items: center;
 }
+
+@media screen and (max-width: 550px) {
+  .header__menu {
+    gap: 22px;
+  }
+}

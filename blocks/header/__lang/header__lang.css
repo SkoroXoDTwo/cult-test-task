@@ -13,3 +13,9 @@
   cursor: pointer;
   opacity: .6;
 }
+
+@media screen and (max-width: 550px) {
+  .header__lang {
+    display: none;
+  }
+}

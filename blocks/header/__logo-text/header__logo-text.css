@@ -7,3 +7,9 @@
   font-size: 11px;
   line-height: 1.58;
 }
+
+@media screen and (max-width: 1000px) {
+  .header__logo-text {
+    display: none;
+  }
+}
