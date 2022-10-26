@@ -29,3 +29,16 @@
 @import url(../blocks/navigation/__list-item/navigation__list-item.css);
 @import url(../blocks/navigation/__item-name/navigation__item-name.css);
 @import url(../blocks/navigation/__item-arrow/navigation__item-arrow.css);
+
+/* ----------- intro ----------- */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__description/intro__description.css);
+@import url(../blocks/intro/__icons/intro__icons.css);
+@import url(../blocks/intro/__icon/intro__icon.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__btn/intro__btn.css);
+@import url(../blocks/intro/__img/intro__img.css);
+@import url(../blocks/intro/__decoration/intro__decoration.css);
+@import url(../blocks/intro/__swiper/intro__swiper.css);
+@import url(../blocks/intro/__swiper-item/intro__swiper-item.css);

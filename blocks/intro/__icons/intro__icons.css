@@ -1,0 +1,14 @@
+.intro__icons {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 16px;
+}
+
+@media screen and (max-width: 550px) {
+  .intro__icons {
+    gap: 10px;
+
+  }
+}
