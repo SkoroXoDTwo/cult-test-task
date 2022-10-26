@@ -6,3 +6,11 @@
   justify-content: center;
   width: 100%;
 }
+
+@media screen and (max-width: 550px) {
+  .product__table {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+}
