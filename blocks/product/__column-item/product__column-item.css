@@ -1,0 +1,15 @@
+.product__column-item {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #1E1E1E;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.58;
+  transition: opacity .2s;
+}
+
+.product__column-item:hover {
+  cursor: pointer;
+  opacity: .6;
+}

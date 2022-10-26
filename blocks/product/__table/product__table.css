@@ -1,0 +1,8 @@
+.product__table {
+  display: grid;
+  column-gap: 40px;
+  row-gap: 40px;
+  grid-template-columns: repeat(auto-fill, 200px);
+  justify-content: center;
+  width: 100%;
+}

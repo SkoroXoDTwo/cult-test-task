@@ -42,3 +42,14 @@
 @import url(../blocks/intro/__decoration/intro__decoration.css);
 @import url(../blocks/intro/__swiper/intro__swiper.css);
 @import url(../blocks/intro/__swiper-item/intro__swiper-item.css);
+
+/* ----------- product ----------- */
+@import url(../blocks/product/product.css);
+@import url(../blocks/product/__description/product__description.css);
+@import url(../blocks/product/__title/product__title.css);
+@import url(../blocks/product/__link/product__link.css);
+@import url(../blocks/product/__link-name/product__link-name.css);
+@import url(../blocks/product/__link-arrow/product__link-arrow.css);
+@import url(../blocks/product/__table/product__table.css);
+@import url(../blocks/product/__column/prodcut__column.css);
+@import url(../blocks/product/__column-item/product__column-item.css);
