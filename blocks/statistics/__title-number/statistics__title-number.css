@@ -1,0 +1,14 @@
+.statistics__title-number {
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 51px;
+  line-height: 1.10;
+}
+
+@media screen and (max-width: 550px) {
+  .statistics__title-number {
+    font-size: 40px;
+  }
+}

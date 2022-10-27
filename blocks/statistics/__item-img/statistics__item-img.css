@@ -1,0 +1,18 @@
+.statistics__item-img {
+  position: absolute;
+  top: -14px;
+  left: -47px;
+  width: 94px;
+  height: 96px;
+  object-fit: contain;
+  z-index: 0;
+}
+
+@media screen and (max-width: 550px) {
+  .statistics__item-img {
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 25px;
+  }
+}

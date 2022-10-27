@@ -53,3 +53,14 @@
 @import url(../blocks/product/__table/product__table.css);
 @import url(../blocks/product/__column/prodcut__column.css);
 @import url(../blocks/product/__column-item/product__column-item.css);
+
+/* ----------- statistics ----------- */
+@import url(../blocks/statistics/statistics.css);
+@import url(../blocks/statistics/__title/statistics__title.css);
+@import url(../blocks/statistics/__list/statistics__list.css);
+@import url(../blocks/statistics/__item/statistics__item.css);
+@import url(../blocks/statistics/__item-title/statistics__item-title.css);
+@import url(../blocks/statistics/__title-number/statistics__title-number.css);
+@import url(../blocks/statistics/__item-subtitle/statistics__item-subtitle.css);
+@import url(../blocks/statistics/__item-img/statistics__item-img.css);
+@import url(../blocks/statistics/__item-img/_rigth/statistics__item-img_rigth.css);

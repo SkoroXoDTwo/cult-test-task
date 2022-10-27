@@ -1,0 +1,11 @@
+.statistics__item-img_rigth {
+  top: -14px;
+  left: -47px;
+}
+
+@media screen and (max-width: 550px) {
+  .statistics__item-img_rigth {
+    top: -14px;
+    left: 68px;
+  }
+}

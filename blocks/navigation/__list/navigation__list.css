@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 1439px) {
   .navigation__list {
-    column-gap: 50px;
+    column-gap: 45px;
   }
 }
 

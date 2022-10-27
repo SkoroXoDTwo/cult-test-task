@@ -1,0 +1,12 @@
+.statistics__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  column-gap: 134px;
+  row-gap: 34px;
+  flex-wrap: wrap;
+}
+
