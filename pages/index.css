@@ -64,3 +64,14 @@
 @import url(../blocks/statistics/__item-subtitle/statistics__item-subtitle.css);
 @import url(../blocks/statistics/__item-img/statistics__item-img.css);
 @import url(../blocks/statistics/__item-img/_rigth/statistics__item-img_rigth.css);
+
+/* ----------- company ----------- */
+@import url(../blocks/company/company.css);
+@import url(../blocks/company/__img/company__img.css);
+@import url(../blocks/company/__description/company__description.css);
+@import url(../blocks/company/__subtitle/company__subtitle.css);
+@import url(../blocks/company/__title/company__title.css);
+@import url(../blocks/company/__text/company__text.css);
+@import url(../blocks/company/__link/company__link.css);
+@import url(../blocks/company/__link-name/company__link-name.css);
+@import url(../blocks/company/__link-arrow/company__link-arrow.css);
