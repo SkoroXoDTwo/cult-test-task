@@ -6,3 +6,22 @@
   grid-template-columns: repeat(auto-fill, 384px);
   justify-content: center;
 }
+
+@media screen and (max-width: 1280px) {
+  .configurator {
+    padding: 50px 60px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .configurator {
+    padding: 40px 30px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .configurator {
+    grid-template-columns: 1fr;
+    padding: 52px 16px;
+  }
+}

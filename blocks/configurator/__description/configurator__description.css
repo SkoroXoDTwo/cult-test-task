@@ -5,3 +5,9 @@
   max-width: 282px;
   align-self: end;
 }
+
+@media screen and (max-width: 550px) {
+  .configurator__description {
+    padding-bottom: 8px;
+  }
+}
