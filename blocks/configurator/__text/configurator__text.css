@@ -1,0 +1,9 @@
+.configurator__text {
+  padding: 0;
+  margin: 0;
+  max-width: 282px;
+  color: #404040;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.74;
+}

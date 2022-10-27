@@ -1,0 +1,8 @@
+.configurator {
+  padding: 64px 120px;
+  display: grid;
+  column-gap: 24px;
+  row-gap: 40px;
+  grid-template-columns: repeat(auto-fill, 384px);
+  justify-content: center;
+}

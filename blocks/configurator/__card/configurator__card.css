@@ -1,0 +1,12 @@
+.configurator__card {
+  margin: 0;
+  padding: 0 0 40px;
+  width: 100%;
+  min-height: 418px;
+  background: #F2F6FB;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  box-sizing: border-box;
+}

@@ -75,3 +75,16 @@
 @import url(../blocks/company/__link/company__link.css);
 @import url(../blocks/company/__link-name/company__link-name.css);
 @import url(../blocks/company/__link-arrow/company__link-arrow.css);
+
+/* ----------- configurator ----------- */
+@import url(../blocks/configurator/configurator.css);
+@import url(../blocks/configurator/__description/configurator__description.css);
+@import url(../blocks/configurator/__subtitle/configurator__subtitle.css);
+@import url(../blocks/configurator/__title/configurator__title.css);
+@import url(../blocks/configurator/__text/configurator__text.css);
+@import url(../blocks/configurator/__card/configurator__card.css);
+@import url(../blocks/configurator/__card-decoration/configurator__card-decoration.css);
+@import url(../blocks/configurator/__card-img/configurator__card-img.css);
+@import url(../blocks/configurator/__card-title/configurator__card-title.css);
+@import url(../blocks/configurator/__card-text/configurator__card-text.css);
+@import url(../blocks/configurator/__card-btn/configurator__card-btn.css);
