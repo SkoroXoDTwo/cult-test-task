@@ -100,6 +100,7 @@
 @import url(../blocks/news/__item-link/news__item-link.css);
 @import url(../blocks/news/__item/news__item.css);
 @import url(../blocks/news/__item-img/news__item-img.css);
+@import url(../blocks/news/__item-cover/news__item-cover.css);
 @import url(../blocks/news/__item-subtitle/news__item-subtitle.css);
 @import url(../blocks/news/__subtitle-name/news__subtitle-name.css);
 @import url(../blocks/news/__subtitle-circle/news__subtitle-circle.css);

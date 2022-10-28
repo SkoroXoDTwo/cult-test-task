@@ -9,3 +9,10 @@
   justify-content: center;
   width: 100%;
 }
+
+@media screen and (max-width: 550px) {
+  .news__list {
+    row-gap: 20px;
+    grid-template-columns: repeat(auto-fill, 288px);
+  }
+}
