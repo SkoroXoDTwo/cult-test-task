@@ -1,0 +1,9 @@
+.catalog {
+  background: url(../../images/catalog-bg.png);
+  background-size: cover;
+  background-position: center center;
+  padding: 48px 120px;
+  min-height: 510px;
+  display: flex;
+  align-items: flex-end;
+}

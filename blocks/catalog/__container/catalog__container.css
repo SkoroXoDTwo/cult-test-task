@@ -1,0 +1,8 @@
+.catalog__container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  background: #fff;
+  max-width: 472px;
+  box-sizing: border-box;
+}
