@@ -88,3 +88,21 @@
 @import url(../blocks/configurator/__card-title/configurator__card-title.css);
 @import url(../blocks/configurator/__card-text/configurator__card-text.css);
 @import url(../blocks/configurator/__card-btn/configurator__card-btn.css);
+
+/* ----------- news ----------- */
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__header/news__header.css);
+@import url(../blocks/news/__title/news__title.css);
+@import url(../blocks/news/__link/news__link.css);
+@import url(../blocks/news/__link-name/news__link-name.css);
+@import url(../blocks/news/__link-arrow/news__link-arrow.css);
+@import url(../blocks/news/__list/news__list.css);
+@import url(../blocks/news/__item-link/news__item-link.css);
+@import url(../blocks/news/__item/news__item.css);
+@import url(../blocks/news/__item-img/news__item-img.css);
+@import url(../blocks/news/__item-subtitle/news__item-subtitle.css);
+@import url(../blocks/news/__subtitle-name/news__subtitle-name.css);
+@import url(../blocks/news/__subtitle-circle/news__subtitle-circle.css);
+@import url(../blocks/news/__subtitle-date/news__subtitle-date.css);
+@import url(../blocks/news/__item-title/news__item-title.css);
+@import url(../blocks/news/__item-text/news__item-text.css);

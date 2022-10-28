@@ -1,0 +1,12 @@
+.news__item-text {
+  margin: 0;
+  padding: 0 24px;
+  color: #888888;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.58;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

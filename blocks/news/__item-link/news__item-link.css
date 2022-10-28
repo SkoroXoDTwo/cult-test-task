@@ -1,0 +1,11 @@
+.news__item-link {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+
+.news__item-link:hover {
+  cursor: pointer;
+  opacity: .6;
+}

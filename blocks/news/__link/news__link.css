@@ -1,0 +1,14 @@
+.news__link {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  display: flex;
+  gap: 9.5px;
+  align-items: center;
+  transition: opacity .2s;
+}
+
+.news__link:hover {
+  cursor: pointer;
+  opacity: .6;
+}
