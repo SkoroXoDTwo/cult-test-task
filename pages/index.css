@@ -16,8 +16,11 @@
 @import url(../blocks/header/__feedback-icon/header__feedback-icon.css);
 @import url(../blocks/header/__feeback-text/header__feeback-text.css);
 @import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/header/__input/header__input.css);
 @import url(../blocks/header/__search/header__search.css);
-@import url(../blocks/header/__search-input/header__search-input.css);
+@import url(../blocks/header/__input/header__input.css);
+@import url(../blocks/header/__input/_anim/header__input_anim_open.css);
+@import url(../blocks/header/__input/_anim/header__input_anim_close.css);
 @import url(../blocks/header/__search-btn/header__search-btn.css);
 @import url(../blocks/header/__list-burger/header__list-burger.css);
 @import url(../blocks/header/__burger/header__burger.css);
@@ -114,3 +117,16 @@
 @import url(../blocks/catalog/__title/catalog__title.css);
 @import url(../blocks/catalog/__text/catalog__text.css);
 @import url(../blocks/catalog/__btn/catalog__btn.css);
+
+/* ----------- brand ----------- */
+@import url(../blocks/brand/brand.css);
+@import url(../blocks/brand/__title/brand__title.css);
+@import url(../blocks/brand/__list/brand__list.css);
+@import url(../blocks/brand/__list-elem/brand__list-elem.css);
+@import url(../blocks/brand/__link/brand__link.css);
+@import url(../blocks/brand/__item/brand__item.css);
+@import url(../blocks/brand/__logo/brand__logo.css);
+@import url(../blocks/brand/__text/brand__text.css);
+@import url(../blocks/brand/__text/_first-item/brand__text_first-item.css);
+@import url(../blocks/brand/__swiper/brand__swiper.css);
+@import url(../blocks/brand/__swiper-item/brand__swiper-item.css);

@@ -1,0 +1,11 @@
+.brand__swiper {
+  align-self: center;
+  display: none;
+  gap: 10px;
+}
+
+@media screen and (max-width: 550px) {
+  .brand__swiper {
+    display: flex;
+  }
+}

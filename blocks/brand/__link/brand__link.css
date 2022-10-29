@@ -1,0 +1,9 @@
+.brand__link {
+  text-decoration: none;
+  transition: opacity .2s;
+}
+
+.brand__link:hover {
+  cursor: pointer;
+  opacity: .6;
+}

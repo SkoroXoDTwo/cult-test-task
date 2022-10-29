@@ -1,0 +1,13 @@
+@keyframes input-close {
+  to {
+    width: 100px;
+  }
+  from {
+    width: 0;
+    display: none;
+  }
+}
+
+.header__input_anim_close {
+  animation: 1s linear 0s reverse forwards input-close;
+}

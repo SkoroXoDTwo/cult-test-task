@@ -1,0 +1,8 @@
+@media screen and (max-width: 550px) {
+  .brand__list-elem {
+    display: none;
+  }
+  .brand__list-elem:first-child {
+    display: block;
+  }
+}

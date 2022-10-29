@@ -1,0 +1,24 @@
+.brand {
+  padding: 64px 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+@media screen and (max-width: 1280px) {
+  .brand {
+    padding: 70px 60px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .brand {
+    padding: 60px 30px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .brand {
+    padding: 46px 16px 52px;
+  }
+}

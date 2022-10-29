@@ -1,0 +1,13 @@
+@keyframes input-open {
+  to {
+    width: 0;
+  }
+  from {
+    width: 100px;
+  }
+}
+
+.header__input_anim_open {
+  display: block;
+  animation: 1s linear 0s reverse forwards input-open;
+}
