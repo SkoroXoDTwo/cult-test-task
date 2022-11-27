@@ -1,11 +1,21 @@
 # Проект: Polair лендинг
 ------
-Одностраничный адаптивный лендинг.<br>
 Тестовое задания на должность HTML верстальщик в компанию Cult.
-### Описание проекта
-В данной проектной работе, я практиковал свои умения адаптивной верстки на html, css.
-Сайт разрабатывался по принципу Desktop first.
-Были использованы такие технология как:
+------
+## Описание проекта
+Одностраничный адаптивный лендинг компании по производству фармацевтического оборудования.<br>
+Сайт верстался по макету в Figma. В макете был предоставлен только вариант Desktop версии. Адаптив придумывал самостоятельно.<br>
+Проект разрабатывался по принципу Desktop first.<br>
+Так же есть сложные Grid сетки.
+
+## Стек:
+<p>
+  <img src="https://img.shields.io/badge/Html-gray?style=for-the-badge&logo=HTML5&logoColor=red/">
+  <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=orange/"> 
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=/">
+</p>
+
+## Технологии:
 * Методология БЭМ;
 * БЭМ Nested;
 * Flex;
